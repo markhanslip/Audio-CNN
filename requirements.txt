@@ -1,0 +1,14 @@
+opencv-contrib-python
+pickle
+numpy
+librosa
+numpy-ringbuffer
+pyaudio
+portaudio
+scikit-learn
+os
+python-osc
+glob
+pydub
+argparse
+matplotlib
