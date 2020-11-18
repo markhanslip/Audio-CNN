@@ -1,7 +1,6 @@
 # Audio-CNN
 
-# Three stages of Convolutional Neural Network adapted for use with real-time audio, with 
-# script for mel / cqt / chromagram generation from wav files, model training and inference for live input 
+# Three stages of Convolutional Neural Network adapted for use with real-time audio, with script for mel / cqt / chromagram generation from wav files, model training and inference for live input.
 
 Partly based on https://github.com/FAR-Lab/RealtimeAudioClassification
 
