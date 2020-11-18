@@ -11,7 +11,6 @@ To install dependencies, create an Anaconda environment from the root of this re
 conda create -n audio-cnn python=3.7 pytorch==1.4.0 torchvision==0.5.0 cudatoolkit=10.1 -c pytorch 
 conda install pyaudio -c nwani
 pip install -r requirements.txt
-
 ```
 The above works for Windows and Linux, Mac users should omit `cudatoolkit=10.1` from the first line.  
 
